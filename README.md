@@ -11,4 +11,4 @@ SQL Main Concepts are
 - and returns manipulation of that value (for example function that remove white spaces)
 
 I have collected the data  using SQL Queries.
-![sql graph](/Desktop/sql graph.png)
+
