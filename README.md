@@ -1,5 +1,5 @@
 
-# Data analysis on Soccer DataBase(SQL using Python).
+# Data analysis on Soccer DataBase(SQL using Python)
 
 *The most important component of the DB is creating a tables - that's where all the data stored. 
 Usually the data would be divided into many tables, and not stored all in one place (so designing the data stracture propely is very important). 
